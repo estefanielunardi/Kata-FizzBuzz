@@ -13,6 +13,10 @@
 
 - vendor/bin/phpunit
 
+## Status
+
+- Finish
+
 ### Escribe un programa que imprima los números del 1 al 100:
 
 Aplica las siguientes normas:
